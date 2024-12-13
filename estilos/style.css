@@ -1,5 +1,5 @@
 * {
-    font-family: Arial, Helvetica, sans-serif;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 16px;
 }
 
@@ -9,4 +9,11 @@ body {
     margin: auto;
     padding: 10px;
     box-shadow: 3px 3px 5px black;
+}
+main {
+    background-color: brown;
+    width: 500px;
+    margin: auto;
+    padding: 10px;
+    box-shadow: 3px 3px 5px rgba(rgb(223, 159, 159), rgb(183, 240, 183), rgb(161, 161, 207), alpha);
 }
